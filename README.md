@@ -1,5 +1,5 @@
-## Hi there 👋
-- 🌱 I’m currently learning ...
+## Olá, meu nome é Beatriz 👋
+- 🌱 Estudante de Tecnologia
 <!--
 **biafalls/biafalls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
