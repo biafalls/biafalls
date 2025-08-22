@@ -17,7 +17,6 @@
 <div align="center"">
   <img src="https://github-readme-stats.vercel.app/api?username=biafalls&rank_icon=github&theme=radical&hide_border=false" height="150"><img width="20" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biafalls&layout=compact&theme=radical&hide_border=false&langs_count=6" height="150"/>
-  
   <img align="right" src="assets/bia.gif" alt="Gif da bia" height="150"/>
 </div>
 
