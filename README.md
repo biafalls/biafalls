@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Beatriz Lima!
+# Olá, eu sou a Bia <3
 
 ```txt
 ══════════════════════════════════════════════
