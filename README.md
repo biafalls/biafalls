@@ -28,24 +28,6 @@
 🐧 Linux
 ```
 
----
-
-## 📊 Barra de habilidades
-
-```txt
-☕ Java             ███████░░░
-🌱 Spring Boot      ██████░░░░
-💾 MySQL            ███████░░░
-⚡ JavaScript       ██████░░░░
-🌐 HTML & CSS       ████████░░
-🔧 Git & GitHub     ███████░░░
-📚 Aprendizado      ██████████
-```
-
-> *As barras representam minha jornada de aprendizado e evolução contínua.*
-
----
-
 ## 🎯 Quests
 
 - ✅ Técnico em Desenvolvimento de Sistemas
