@@ -6,7 +6,7 @@
 
 <!-- Gif -->
 <div align="center"> 
-    <img src="./assets/gifs/cat-city.gif" width="800" alt="Cat City">
+    <img src="./assets/gifs/cat-city.gif" width="850"  alt="Cat City">
 </div>
 
 <div align="center"> 
@@ -115,9 +115,9 @@
 
 <p align="center">
   <a href="https://github.com/biafalls">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=biafalls&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10&bg_color=0B1020&title_color=7AE7FF&text_color=F8FAFC" alt="GitHub Stats"  />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=biafalls&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10&bg_color=0B1020&title_color=7AE7FF&text_color=F8FAFC" alt="GitHub Stats" width=48%/>
   </a>
-  <img src="https://streak-stats.demolab.com/?user=biafalls&theme=tokyonight&hide_border=true&cache_seconds=86400&background=0B1020&ring=7AE7FF&fire=4CAF50" alt="GitHub Streak"  />
+  <img src="https://streak-stats.demolab.com/?user=biafalls&theme=tokyonight&hide_border=true&cache_seconds=86400&background=0B1020&ring=7AE7FF&fire=4CAF50" alt="GitHub Streak" width=48% />
 </p>
 
 <!-- Gráfico da Cobrinha (Snake) Configurado Corretamente -->
@@ -135,8 +135,6 @@
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biafalls&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&bg_color=0B1020&title_color=7C5CFF&text_color=F8FAFC" alt="Top Languages" />
   </a>
 </p>
-
-
 
 <!-- Snake Graph -->
 <div align="center">
