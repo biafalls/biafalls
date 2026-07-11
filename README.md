@@ -30,7 +30,8 @@
     </table>
 </div>
 
-<!-- Icones Linguagens -->
+
+<!-- Icones Linguagens 
 <p align="center">🎒 Inventário</p>
 <table align="center">
   <tr>
@@ -55,7 +56,7 @@
   </tr>
 </table>
 
-<!-- Ferramentas -->
+<!-- Ferramentas 
 <table align="center">
   <tr>
     <td align="center" width="70">
@@ -109,7 +110,7 @@
         </td>
     </tr>
     </table>
-</div>
+</div> -->
 
 ---
 
@@ -120,14 +121,7 @@
   <img src="https://streak-stats.demolab.com/?user=biafalls&theme=tokyonight&hide_border=true&cache_seconds=86400&background=0B1020&ring=7AE7FF&fire=4CAF50" alt="GitHub Streak" width=48% />
 </p>
 
-<!-- Gráfico da Cobrinha (Snake) Configurado Corretamente -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biafalls/biafalls/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biafalls/biafalls/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/biafalls/biafalls/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
+
 
 <!-- Linguagens -->
 <p align="center">
@@ -136,14 +130,14 @@
   </a>
 </p>
 
-<!-- Snake Graph -->
+<!-- Gráfico da Cobrinha (Snake) Configurado Corretamente 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biafalls/biafalls/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biafalls/biafalls/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/biafalls/biafalls/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/biafalls/biafalls/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
-</div>
+</div> -->
 
 <p align="center"><img src="./assets/icons/star.svg" width="40"> Estou sempre buscando aprender, evoluir e participar de projetos que me desafiem como desenvolvedora.<br>
   <strong>Toda jornada começa com um <code>Hello, World!</code> e evolui um commit de cada vez.</strong>
