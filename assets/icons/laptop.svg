@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="64"
+    height="64"
+    viewBox="0 0 64 64">
+
+    <title>Biafalls Laptop</title>
+
+    <defs>
+
+        <filter id="glow">
+            <feGaussianBlur stdDeviation="2.2" result="blur"/>
+            <feMerge>
+                <feMergeNode in="blur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+
+    </defs>
+
+    <!-- Glow -->
+
+    <ellipse
+        cx="32"
+        cy="34"
+        rx="20"
+        ry="14"
+        fill="#7AE7FF"
+        opacity=".15"
+        filter="url(#glow)">
+
+        <animate
+            attributeName="opacity"
+            values=".10;.22;.10"
+            dur="4s"
+            repeatCount="indefinite"/>
+
+    </ellipse>
+
+    <!-- Screen -->
+
+    <rect
+        x="17"
+        y="15"
+        width="30"
+        height="22"
+        rx="3"
+
+        fill="#0B1020"
+
+        stroke="#111827"
+        stroke-width="2.2">
+
+        <animateTransform
+            attributeName="transform"
+            type="translate"
+            values="0 0;0 -1;0 0"
+            dur="5s"
+            repeatCount="indefinite"/>
+
+    </rect>
+
+    <!-- Screen glow -->
+
+    <rect
+        x="20"
+        y="18"
+        width="24"
+        height="16"
+        rx="2"
+        fill="#7AE7FF"
+        opacity=".22">
+
+        <animate
+            attributeName="opacity"
+            values=".18;.45;.18"
+            dur="3s"
+            repeatCount="indefinite"/>
+
+    </rect>
+
+    <!-- Code -->
+
+    <path
+        d="M27 26
+           L24 28
+           L27 30"
+
+        fill="none"
+        stroke="#FFD166"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+    <path
+        d="M37 26
+           L40 28
+           L37 30"
+
+        fill="none"
+        stroke="#FFD166"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+    <!-- Base -->
+
+    <path
+        d="M12 42
+           H52
+           L48 49
+           H16
+           Z"
+
+        fill="#7C5CFF"
+
+        stroke="#111827"
+        stroke-width="2.2"/>
+
+</svg>
