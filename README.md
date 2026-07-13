@@ -1,4 +1,3 @@
-# Perfil em Reforma!
 <!-- Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1020,25:0F1E36,50:1E3A8A&text=Beatriz%20Lima&fontSize=60&descAlign=50&desc=Estudante%20de%20Analise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=48&fontAlignY=31&textBg=false&fontColor=ffff&fontAlign=50&strokeWidth=0"/>
